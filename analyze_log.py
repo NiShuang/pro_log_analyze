@@ -375,5 +375,3 @@ class LogAnalyzer:
         result = self.get_sum()
         self.print_export(result)
         serialize_result('data/result', result)
-
-
